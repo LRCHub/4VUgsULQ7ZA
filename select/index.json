@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Greenlight",
+  "base_artist": "Pitbull",
+  "createdAt": "2026-02-12T12:51:30.384097Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Greenlight: Now Begin",
+      "artist": "Blackalicious",
+      "has_synced": false,
+      "path": "select/01_Greenlight__Now_Begin_Blackalicious.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Greenlight (feat. Flo Rida & LunchMoney Lewis)",
+      "artist": "Pitbull feat. Flo Rida & LunchMoney Lewis",
+      "has_synced": true,
+      "path": "select/02_Greenlight_(feat._Flo_Rida_&_LunchMoney_Lewis)_Pitbull_feat._Flo_Rida_&_LunchMoney_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Greenlight",
+      "artist": "Pitbull",
+      "has_synced": true,
+      "path": "select/03_Greenlight_Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Greenlight",
+      "artist": "Robbie Williams",
+      "has_synced": true,
+      "path": "select/04_Greenlight_Robbie_Williams.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Greenlight - TJR Radio Mix",
+      "artist": "Pitbull, Flo Rida, Lunchmoney Lewis & TJR",
+      "has_synced": true,
+      "path": "select/05_Greenlight_-_TJR_Radio_Mix_Pitbull,_Flo_Rida,_Lunchmoney_Lewis_&_TJR.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Greenlight",
+      "artist": "Pitbull, Flo Rida, LunchMoney Lewis",
+      "has_synced": true,
+      "path": "select/06_Greenlight_Pitbull,_Flo_Rida,_LunchMoney_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Greenlight (feat. feat. Flo Rida & LunchMoney Lewis)",
+      "artist": "Pitbull",
+      "has_synced": true,
+      "path": "select/07_Greenlight_(feat._feat._Flo_Rida_&_LunchMoney_Lewis)_Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Greenlight (Sandy Rivera's KOT Remix)",
+      "artist": "John Legend Featuring Andre 3000",
+      "has_synced": false,
+      "path": "select/08_Greenlight_(Sandy_Rivera's_KOT_Remix)_John_Legend_Featuring_Andre_3000.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Greenlight (Tom Neville Dub)",
+      "artist": "John Legend Featuring Andre 3000",
+      "has_synced": false,
+      "path": "select/09_Greenlight_(Tom_Neville_Dub)_John_Legend_Featuring_Andre_3000.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Greenlight",
+      "artist": "5 Seconds of Summer",
+      "has_synced": false,
+      "path": "select/10_Greenlight_5_Seconds_of_Summer.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Greenlight",
+      "artist": "Pitbull ft. Flo Rida & LunchMoney Lewis",
+      "has_synced": true,
+      "path": "select/11_Greenlight_Pitbull_ft._Flo_Rida_&_LunchMoney_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Greenlight",
+      "artist": "Pitbull Feat. Flo Rida & Lunchmoney Lewis",
+      "has_synced": true,
+      "path": "select/12_Greenlight_Pitbull_Feat._Flo_Rida_&_Lunchmoney_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Greenlight",
+      "artist": "5 Seconds Of Summer",
+      "has_synced": true,
+      "path": "select/13_Greenlight_5_Seconds_Of_Summer.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Greenlight (feat. Flo Rida & LunchMoney Lewis) [Alex Ross Radio Mix]",
+      "artist": "Pitbull feat. Flo Rida & LunchMoney Lewis",
+      "has_synced": false,
+      "path": "select/14_Greenlight_(feat._Flo_Rida_&_LunchMoney_Lewis)_[Alex_Ross_Radio_Mix]_Pitbull_feat._Flo_Rida_&_LunchMoney_Lewis.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Redlight Greenlight",
+      "artist": "Kendall Schmidt and Logan Henderson",
+      "has_synced": true,
+      "path": "select/15_Redlight_Greenlight_Kendall_Schmidt_and_Logan_Henderson.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Redlight Greenlight",
+      "artist": "Kendall Schmidt & Logan Henderson",
+      "has_synced": true,
+      "path": "select/16_Redlight_Greenlight_Kendall_Schmidt_&_Logan_Henderson.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Greenlight (feat. Flo Rida & LunchMoney Lewis) [TJR Radio Mix]",
+      "artist": "Pitbull feat. Flo Rida & LunchMoney Lewis",
+      "has_synced": true,
+      "path": "select/17_Greenlight_(feat._Flo_Rida_&_LunchMoney_Lewis)_[TJR_Radio_Mix]_Pitbull_feat._Flo_Rida_&_LunchMoney_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Greenlight (feat. Flo Rida & LunchMoney Lewis) [Radio Mix]",
+      "artist": "Pitbull; Flo Rida; LunchMoney Lewis",
+      "has_synced": true,
+      "path": "select/18_Greenlight_(feat._Flo_Rida_&_LunchMoney_Lewis)_[Radio_Mix]_Pitbull;_Flo_Rida;_LunchMoney_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Greenlight (feat. Louis III)",
+      "artist": "Tobtok feat. Wankelmut & Louis III",
+      "has_synced": false,
+      "path": "select/19_Greenlight_(feat._Louis_III)_Tobtok_feat._Wankelmut_&_Louis_III.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Greenlight",
+      "artist": "Pitbull",
+      "has_synced": false,
+      "path": "select/pl_01_Greenlight_Pitbull.txt"
+    }
+  ]
+}
